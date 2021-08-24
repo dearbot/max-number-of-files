@@ -1,2 +1,2 @@
-# the-most-filenames
-the MOST filenames supported on Github.
+# the-max-filenames
+the max filenames supported on Github.
