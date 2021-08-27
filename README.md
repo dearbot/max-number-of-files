@@ -1,3 +1,3 @@
 # The Max number of files
 
- Current: **10050000** files
+ Current: **10100000** files
